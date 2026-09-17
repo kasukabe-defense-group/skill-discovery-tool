@@ -31,3 +31,8 @@ Thumbs.db
 # TypeScript
 *.tsbuildinfo
 next-env.d.ts
+
+# AI agent local state — personal to each person's machine, not shared
+.cursor/
+.claude/settings.local.json
+.aider*
