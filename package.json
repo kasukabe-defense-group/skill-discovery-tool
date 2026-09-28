@@ -1,0 +1,13 @@
+{
+  "name": "skill-discovery",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Find AI skills, Cursor rules and MCP servers on GitHub for what you are building.",
+  "scripts": {
+    "dev": "node serve.js",
+    "setup": "node lib/setup.js --reset"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
